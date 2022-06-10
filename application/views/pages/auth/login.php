@@ -2,8 +2,7 @@
   <section class="section">
     
     <div class="container mt-5">
-      <?php if($this->session->has_userdata('gagal')){
-     ?>
+      <?php if($this->session->has_userdata('gagal')){ ?>
       <div class="alert alert-danger" role="alert">
         Username dan password anda salah!
       </div>

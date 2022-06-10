@@ -6,3 +6,8 @@ Create, Read, Update dan Delete Data Menu pada table/entitas menu Nasi Goreng
 Delivery dengan menggunakan Framework CodeIgniter dan menggunakan konsep
 MVC.</p>
 <p>2. Demonstrasikan dan kumpulkan di pertemuan selanjutnya.</p>
+<p>===========================================================</p>
+<p>Aplikasi full menggunakan query builder</p>
+<p>Dibuat menggunakan template admin getstisla.com</p>
+<p>Untuk mengakses halaman admin dapat melalui http://localhost/NasiGorengDelivery/auth/admin</p>
+<p>===========================================================</p>
